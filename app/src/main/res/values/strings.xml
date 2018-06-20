@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="title">Get Weather</string>
+    <string name="hint">Enter the city : </string>
+    <string name="button">Get it</string>
+    <string name="temp">Temperature :</string>
+    <string name="main">Climate :</string>
+    <string name="desc">Description :</string>
+</resources>
